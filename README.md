@@ -1,13 +1,31 @@
-# blog
+# blog by pelican on github pages
+
 This is my first blog in git.
-利用pelican在git上 创建blog
+利用pelican在github上 创建blog
+
 方法：1.在系统windows10上安装Anacoda的python3版本；
-      2. pip install pelican markdown
+        conda create --name blog_pelican python=3.6
+        conda info -e
+        git bash> source activate blog_pelican
+      2. pip install pelican, markdown, typogrify
       3. mkdir blog
       4. cd blog
       5. pelican-quickstart
       回答问题完成配置，建立了blog的框架。
-      
+      6. clone 主题
+       git clone https://github.com/getpelican/pelican-themes.git
+       vim pelicanconf.py
+       i 
+       THEME = 'pelican-themes/gum
+       Esc :wq
+       7. copy a .md example into /content
+       8. make html
+       ()
+       9.make serve
+       ()
+       
+       
+      
   http://markdownpad.com/download.html
   
   http://wonux.tech/git-pelican.html
