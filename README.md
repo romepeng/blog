@@ -10,5 +10,6 @@ This is my first blog in git.
       
   http://markdownpad.com/download.html
   
+  http://wonux.tech/git-pelican.html
       
       
