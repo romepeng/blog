@@ -11,5 +11,7 @@ This is my first blog in git.
   http://markdownpad.com/download.html
   
   http://wonux.tech/git-pelican.html
+  
+  http://www.xycoding.com/articles/2013/11/21/blog-create/
       
       
