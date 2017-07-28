@@ -20,11 +20,18 @@ This is my first blog in git.
        Esc :wq
        7. copy a .md example into /content
        8. make html
-       ()
+       ((pelican e:/blog/content/ -o e:/blog/output -s e:/blog/pelicanconfg.py))
        9.make serve
-       ()
-       
-       
+       (cd e:/blog/output/ && python -m pelican.server)
+       check in web: localhost:8000
+       10. cd ~/output
+       git init
+       git add .
+       git remote add origin https://github.com/romepeng/romepeng.github.io
+       git pull origin master  # very important
+       git commit -m 'first blog'
+       git push origin master
+       11. see web : https://romepeng.github.io
       
   http://markdownpad.com/download.html
   
