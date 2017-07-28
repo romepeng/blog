@@ -8,6 +8,7 @@ This is my first blog in git.
       5. pelican-quickstart
       回答问题完成配置，建立了blog的框架。
       
-      
+  http://markdownpad.com/download.html
+  
       
       
