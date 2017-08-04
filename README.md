@@ -38,5 +38,12 @@ This is my first blog in git.
   http://wonux.tech/git-pelican.html
   
   http://www.xycoding.com/articles/2013/11/21/blog-create/
+  
+  
+  
+  
+  ## blog by hexo
+  ### hexo theme  [next](http://notes.iissnan.com/ )
+  ### [next example](http://notes.iissnan.com/2016/publishing-github-pages-with-travis-ci/)
       
       
